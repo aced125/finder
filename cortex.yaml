@@ -1,0 +1,10 @@
+- name: finder
+  predictor:
+    type: python
+    path: google_detail/server.py
+    config:
+      dummy_data: false
+  compute:
+    cpu: 1
+    gpu: 1
+    mem: 4G

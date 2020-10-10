@@ -1,0 +1,15 @@
+artifact_uri: file:///home/laksh/Desktop/google_detail/mlruns/0/2763636f633542b6a9cec20308474110/artifacts
+end_time: 1602361766998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 2763636f633542b6a9cec20308474110
+run_uuid: 2763636f633542b6a9cec20308474110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1602361752975
+status: 3
+tags: []
+user_id: laksh
